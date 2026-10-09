@@ -1,0 +1,16 @@
+{
+  "short_name": "Little World",
+  "name": "Little World",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#f6f4ef",
+  "theme_color": "#f6f4ef",
+  "display": "standalone"
+}
